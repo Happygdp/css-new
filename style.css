@@ -1,0 +1,115 @@
+.outer1{
+    height: 400px;
+    width: 800px;
+    background-color: blue;
+    margin-bottom: 20px;
+
+}
+.inner1{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+}
+.outer2{
+    height: 300px;
+    width: 500px;
+    background-color: chartreuse;
+    margin-bottom: 30px;
+    
+}
+.inner2{
+    height:95px;
+    width: 95px;
+    background-color: darkgoldenrod;
+    margin: auto;
+}
+.outer3{
+    height: 300px;
+    width: 50%;
+    background-color: darkgreen;
+    margin-bottom: 21px;
+}
+.inner3{
+    height: 150px;
+    width:150px;
+    background-color: fuchsia;
+    margin: auto;
+    margin-right: 0;
+}
+.outer4{
+    height: 75vh;
+    width: 50%;
+    background-color: greenyellow;
+    margin-bottom: 30px;
+    position: relative;
+}
+.inner4{
+    position: absolute;
+    height: 200px;
+    width: 150px;
+    background-color:rebeccapurple;
+    
+    
+    right: 0;
+   bottom: 0; 
+}
+.outer5{
+    height: 300px;
+    width: 600px;
+    background-color: indianred;
+   position: relative;
+   margin-bottom: 40px;
+}
+.inner5{
+    position: absolute;
+    height: 80px;
+    width: 100px;
+    background-color: lawngreen;
+    margin: auto;
+   left: 0;
+   top: 50px;
+   right: 0;
+   bottom: 0;
+  
+}
+.outer6{
+    height: 400px;
+    width: 700px;
+    background-color: lime;
+    position: relative;
+    margin-bottom: 30px ;
+    border:10px solid blueviolet;
+    border-radius: 30px;
+    position: relative;
+}
+
+
+.inner6{
+    height: 150px;
+    width: 150px;
+    background-color: chocolate;
+    border: 20px solid gray;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+}
+.outer7{
+    height: 400px;
+    width: 700px;
+    background-color:cornflowerblue;
+    position: relative;
+    margin-bottom: 20px ;
+    border:10px double blueviolet;
+    border-radius: 30px;
+    position: relative;
+}
+.inner7{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border: 20px solid rgb(126, 16, 16);
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 250px;
+}
